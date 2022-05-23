@@ -1,0 +1,31 @@
+_repo: On-poetic-interpretation-of-nature_68066
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Shairp, John Campbell
+    aliases:
+    - Shairp, J. C. (John Campbell)
+    - Shairp, Principal
+    birthdate: 1819
+    deathdate: 1885
+    gutenberg_agent_id: '9860'
+    url: http://www.gutenberg.org/2009/agents/9860
+description: ''
+gutenberg_issued: '2022-05-13'
+identifiers:
+  gutenberg: '68066'
+language: en
+pgterms:marc905: 20070916150531shairp
+pgterms:marc906: '1900'
+pgterms:marc907: US
+production_note: Bryan Ness and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: United States :Houghton, Mifflin,1900.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: On poetic interpretation of nature
+url: http://www.gutenberg.org/ebooks/68066
